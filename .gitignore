@@ -57,5 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+
 # IDE and Editiors
 .idea
+
+# ignore transpiled js files
+src/**/*.js
