@@ -1,0 +1,34 @@
+{
+  "name": "ts-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouMatsumoto/ts-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouMatsumoto/ts-sample/issues"
+  },
+  "homepage": "https://github.com/kouMatsumoto/ts-sample#readme",
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^8.0.19",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-typescript": "^3.2.1",
+    "mocha": "^3.5.0",
+    "run-sequence": "^2.1.0",
+    "ts-lint": "^4.5.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  }
+}
