@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/kouMatsumoto/ts-sample#readme",
   "devDependencies": {
+    "@types/expect": "^1.20.1",
     "@types/mocha": "^2.2.41",
     "@types/node": "^8.0.19",
+    "expect": "^1.20.2",
     "gulp": "^3.9.1",
     "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.1.0",
